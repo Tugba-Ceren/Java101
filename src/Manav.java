@@ -22,10 +22,6 @@ public class Manav {
           patlican=input.nextDouble();
           double tutar =(2.14*armut+3.67*elma+domates*1.11+muz*0.95+patlican*5);
           System.out.println("tutar:"+ tutar);
-
-
-          
- 
     }
     
 }
